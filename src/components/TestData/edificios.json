@@ -1,0 +1,91 @@
+[ {
+  "alias" : [ "Biblioteca" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2Fbiblioteca.jpg?alt=media&token=a7ec7714-60f3-4b78-97f9-365e735dabfd",
+  "latitud" : 25.661203,
+  "longitud" : -100.4195
+}, {
+  "alias" : [ "Radio UDEM" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2FradioUDEM.jpg?alt=media&token=7ba6abd5-7068-4fb7-af5b-d5d07bf353fc",
+  "latitud" : 25.661862,
+  "longitud" : -100.421069
+}, {
+  "alias" : [ "Residencias UDEM" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2Fresidencias.jpg?alt=media&token=7f7ccb1e-1542-4596-902f-4549d6bfb002",
+  "latitud" : 25.660072,
+  "longitud" : -100.421923
+}, {
+  "alias" : [ "Edificios 5 y 6" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2F1-51-start.jpg?alt=media&token=4d8dccf0-087e-4c8f-bdc1-549409acab54",
+  "latitud" : 25.661466,
+  "longitud" : -100.420174
+}, {
+  "alias" : [ "Gimnasio" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2Fgimnasio.jpg?alt=media&token=29182542-3e6c-455f-97d0-ef3cecfcdd42",
+  "latitud" : 25.663842,
+  "longitud" : -100.41757
+}, {
+  "alias" : [ "Drop-off CRGS" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2FdropoffCRGS.jpg?alt=media&token=22b84edc-3c7c-4fdb-9ee8-0f7738310173",
+  "latitud" : 25.662758,
+  "longitud" : -100.422632
+}, {
+  "alias" : [ "Drop-off CCU" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2FdropoffCCU.jpg?alt=media&token=9050b455-8ecd-4f09-9d77-74f3142d820d",
+  "latitud" : 25.660658,
+  "longitud" : -100.419341
+}, {
+  "alias" : [ "Drop-off Rectoría" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2FdropoffRectoria.jpg?alt=media&token=fe7b171d-6584-4c52-9d4a-0cadd518ae2a",
+  "latitud" : 25.662957,
+  "longitud" : -100.420389
+}, {
+  "alias" : [ "Espacios físicos" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2FespaciosFisicos.jpg?alt=media&token=7481c054-6175-4f5c-9aba-807d466fe594",
+  "latitud" : 25.661404,
+  "longitud" : -100.421452
+}, {
+  "alias" : [ "Santander" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2Fsantander.jpg?alt=media&token=1b0ef03e-2f0c-4fc0-ba08-1d39d438107f",
+  "latitud" : 25.661787,
+  "longitud" : -100.420497
+}, {
+  "alias" : [ "Banorte" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2Fbanorte.jpg?alt=media&token=d51034b8-d882-4e5c-820c-cfcd5a9fb3da",
+  "latitud" : 25.660574,
+  "longitud" : -100.419806
+}, {
+  "alias" : [ "Canchas deportivas" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2FcanchasDeportivas.jpg?alt=media&token=0004a5cd-c787-4f8a-bed1-dd1a1ed5a67d",
+  "latitud" : 25.663112,
+  "longitud" : -100.417683
+}, {
+  "alias" : [ "Laboratorio de procesos de producción" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2FlabProcesosProduccion.jpg?alt=media&token=f98ec68d-06a0-4f01-b9e6-5d1598276574",
+  "latitud" : 25.661274,
+  "longitud" : -100.421147
+}, {
+  "alias" : [ "Centro Roberto Garza Sada", "CRGS" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2Fcrgs.jpg?alt=media&token=5fe57a4f-4a67-4d5f-aa89-4f8325fb27a8",
+  "latitud" : 25.662086,
+  "longitud" : -100.422258
+}, {
+  "alias" : [ "Centro de la Comunidad Universitaria", "CCU" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2Fccu.jpg?alt=media&token=73a76327-a193-481b-bd14-b232e35853b4",
+  "latitud" : 25.660439,
+  "longitud" : -100.419929
+}, {
+  "alias" : [ "Rectoría" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2Frectoria.jpg?alt=media&token=d305b108-defb-492e-bfe3-874140d6efda",
+  "latitud" : 25.662747,
+  "longitud" : -100.420191
+}, {
+  "alias" : [ "Centro de Información y Atención al Alumno", "CIAA" ],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2Frectoria.jpg?alt=media&token=d305b108-defb-492e-bfe3-874140d6efda",
+  "latitud" : 25.662747,
+  "longitud" : -100.420191
+}, {
+  "alias" : [ "Cafetería"],
+  "image" : "https://firebasestorage.googleapis.com/v0/b/profinder-99346.appspot.com/o/Espacios%2Fccu.jpg?alt=media&token=73a76327-a193-481b-bd14-b232e35853b4",
+  "latitud" : 25.660390,
+  "longitud" : -100.420269
+} ]

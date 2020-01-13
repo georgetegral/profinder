@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "234001546539",
+    "firebase_url": "https://profinder-99346.firebaseio.com",
+    "project_id": "profinder-99346",
+    "storage_bucket": "profinder-99346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234001546539:android:d852efcd47301108",
+        "android_client_info": {
+          "package_name": "com.udem.profinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234001546539-amc6nqup19tc6qibi4g1pq8n50krbia3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udem.profinder",
+            "certificate_hash": "22c0a65aae945dc0659c689e9d133f787c83200b"
+          }
+        },
+        {
+          "client_id": "234001546539-r3s653upjq0qv7uviiv24rfi5ghpbu1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6MW7VFD9Y0Hcf_0-Stj6gtukNL4lggCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234001546539-6si9oor393n3mrp59l9895fr9ee2j68i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
